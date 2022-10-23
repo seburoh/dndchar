@@ -1,0 +1,71 @@
+Name: Chakk
+Class: Cleric
+Background:Holy and Peaceful
+Race:Half-Orc
+Alignment:Forgot it himself some time ago
+Age:32
+Height:10 thighbones, 5 funnybones
+Weight:45 longswords worth
+EyeColor:white
+SkinColor:grey
+HairColor:none
+Backstory:Now this is a story all about how my life got flipped, turned upside down And I'd like to take a
+minute just sit down, James I'll tell you how I became the undisputed King of Card Games. In
+northeastern Africa, born and raised in the palace was where I spent most of my days chilling out
+max and relaxin' all the while or playing some card games right beside the Nile When a couple of
+guys, who were up to no good starting making trouble in my neighborhood! I got in one little fight
+and the gods got scared they said "You're moving in with Yugi and his Grandpa downstairs!" I wound
+up in Japan, and things were less clear like I couldn't kill folks for losing card games here! If
+anything, I could say that this place is lame but I thought, "Nah, forget it, I'll play some card
+games!" I bought card game booster packs, seven or eight, and I yelled at the old man "Yo, Homes,
+smell ya later!" Looked at my kingdom, I was finally there to sit on my throne with my ridiculous
+hair. 
+
+Proficiencies:
+Killing
+Knitting
+Language: Common
+Language: Orc
+
+Features:
+War Priest: During an attack action, attack again as bonus action
+Strength: 16
+Dexterity: 13
+Constitution: 13
+Intelligence: 12
+Wisdom: 11
+Charisma: 10
+Proficiency: 1
+Health: 18
+MaxHealth: 18
+Level: 1
+Exp: 0
+Speed: 30
+HitDice: 4d8
+Inspiration: 0
+Max Carry Weight: 240
+Base AC: 11
+Initiative: 1
+Skill Proficiencies:
+acrobatics: 0
+animalHandling: 0
+arcana: 0
+athletics: 1
+deception: 0
+history: 0
+insight: 0
+intimidation: 0
+investigation: 0
+medicine: 0
+nature: 0
+perception: 1
+performance: 0
+persuasion: 0
+religion: 0
+slightOfHand: 0
+stealth: 0
+survival: 1
+Inventory:
+Name: Bag of Holding, Weight: 0.0, Amount: 1, Description: full of skulls
+Name: Longsword, Weight: 5.0, Amount: 3, Description: long
+Total Weight: 15.0

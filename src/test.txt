@@ -1,0 +1,75 @@
+Chakk
+Cleric
+Prayer and Peace
+Half-Orc
+Forgot it himself
+Ten hundred moons
+10 thighbones, 5 funnybones
+50 longswords
+white
+grey
+none
+TIMETODUEL
+Knitting
+Killing
+Braille
+
+doNe
+Action Surge
+Take one more action on a turn once per rest
+DOne
+longsword
+5
+is long
+3
+longsword
+5
+will fail
+1
+
+
+bag of holding
+0
+full of skulls
+1
+stick
+1
+for prodding
+stick
+1
+for prodding
+1
+DONe
+3
+4
+2
+0
+no
+4
+1
+2
+1
+4d10
+30
+16
+0
+19
+dno
+
+3
+7
+11
+13
+13
+done
+done
+6
+5
+4
+3
+2
+1
+done
+30
+100
+done
